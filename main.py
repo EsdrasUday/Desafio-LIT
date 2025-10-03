@@ -8,10 +8,10 @@ import matplotlib.pyplot as plt
 import json
 import os
 
-CLIENTES_FILE = "clientes.csv"
-VENDAS_FILE = "vendas.csv"
-PRODUTOS_FILE = "produtos.csv"
-AVALIACOES_FILE = "avaliacoes.json"
+CLIENTES_FILE = "Datasets/clientes.csv"
+VENDAS_FILE = "Datasets/vendas.csv"
+PRODUTOS_FILE = "Datasets/produtos.csv"
+AVALIACOES_FILE = "Datasets/avaliacoes.json"
 
 def carregar_dados():
     """Carrega os quatro conjuntos de dados de seus respectivos arquivos."""
