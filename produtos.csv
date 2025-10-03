@@ -1,0 +1,7 @@
+Produto_ID,Nome_Produto,Categoria,Preco_Custo,Fornecedor,Data_Entrada_Estoque,Estoque_Atual
+P001,Notebook,Eletrônicos,"1445,15",EletroMax,2023-07-10,-5
+P002,Smartphone,Informática,"742,69",EletroMax,2023-06-02,55
+P003,Tablet,Telefonia,"816,14",InovaCom,2023-04-27,5
+P004,Monitor,Acessórios,"1213,06",TechSupply,2023-06-22,-5
+P005,Teclado,Eletrônicos,"1456,32",EletroMax,2023-03-02,46
+P006,Mouse,Informática,"1342,16",GlobalTech,2023-04-28,84

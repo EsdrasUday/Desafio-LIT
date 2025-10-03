@@ -1,0 +1,101 @@
+Venda_ID,ID_Cliente,Produto,Quantidade,Valor_Unitario,Data_Venda,Vendedor,Forma_Pagamento
+V0001,C048,Monitor,2,1804.71,2023-07-07,Carlos Santos,PIX
+V0002,C032,Notebook,3,458.54,2023-09-07,Luiza Almeida,Boleto
+V0003,C019,Teclado,4,1708.66,2023-10-26,Carlos Santos,Dinheiro
+V0004,C024,Notebook,2,1581.76,2023-10-30,Luiza Almeida,Boleto
+V0005,C052,Mouse,3,1877.71,2023-11-11,Pedro Costa,Dinheiro
+V0006,C038,Smartphone,4,1252.22,2023-09-20,Carlos Santos,Boleto
+V0007,C025,Smartphone,3,1949.96,2023-10-24,Pedro Costa,Dinheiro
+V0008,C046,Notebook,2,1022.67,2023-11-10,Pedro Costa,Boleto
+V0009,C016,Monitor,1,526.11,2023-11-08,Ana Silva,Cartão Crédito
+V0010,C004,Tablet,1,1038.4,2023-07-18,Maria Oliveira,Cartão Débito
+V0011,C020,Notebook,4,1334.3,2023-10-13,Carlos Santos,Dinheiro
+V0012,C003,Notebook,1,685.32,23/11/2023,Ana Silva,PIX
+V0013,C012,Notebook,3,798.66,2023-09-27,Pedro Costa,Cartão Débito
+V0014,C022,Smartphone,2,1220.75,2023-09-17,Luiza Almeida,PIX
+V0015,C051,Teclado,0,1794.89,2023-06-27,Carlos Santos,Boleto
+V0016,C027,Teclado,2,765.15,2023-09-05,Pedro Costa,PIX
+V0017,C028,Smartphone,3,1035.78,2023-07-31,Pedro Costa,Cartão Débito
+V0018,C048,Mouse,3,1186.81,2023-07-19,Maria Oliveira,PIX
+V0019,C017,Mouse,4,1886.87,2023-07-16,Luiza Almeida,Boleto
+V0020,C053,Monitor,2,803.3,2023-07-07,Pedro Costa,PIX
+V0021,C024,Notebook,1,913.55,2023-09-03,Carlos Santos,Cartão Débito
+V0022,C035,Notebook,4,1720.72,2023-11-07,Maria Oliveira,Cartão Crédito
+V0023,C023,Teclado,1,702.15,2023-10-06,Pedro Costa,Cartão Débito
+V0024,C018,Teclado,1,849.91,24/07/2023,Carlos Santos,Cartão Crédito
+V0025,C003,Notebook,4,233.79,2023-09-22,Luiza Almeida,Cartão Crédito
+V0026,C032,Smartphone,3,1981.1,2023-10-05,Ana Silva,Cartão Crédito
+V0027,C027,Tablet,2,1767.01,2023-06-17,Ana Silva,Dinheiro
+V0028,C040,Smartphone,1,359.58,2023-11-23,Maria Oliveira,PIX
+V0029,C039,Smartphone,1,663.37,2023-06-26,Pedro Costa,Cartão Débito
+V0030,C035,Mouse,0,586.79,2023-10-30,Pedro Costa,Dinheiro
+V0031,C013,Monitor,4,1071.55,2023-07-27,Carlos Santos,PIX
+V0032,C036,Monitor,1,469.12,2023-06-08,Carlos Santos,Cartão Crédito
+V0033,C046,Notebook,4,196.46,2023-09-23,Luiza Almeida,PIX
+V0034,C023,Tablet,3,813.61,2023-08-05,João Pereira,PIX
+V0035,C032,Monitor,3,1376.85,2023-07-21,Luiza Almeida,Cartão Crédito
+V0036,C025,Mouse,2,1131.02,03/10/2023,Luiza Almeida,Cartão Crédito
+V0037,C022,Notebook,2,1734.77,2023-07-19,João Pereira,Boleto
+V0038,C052,Notebook,2,1662.94,2023-07-24,Carlos Santos,Cartão Débito
+V0039,C043,Smartphone,4,720.64,2023-06-08,Pedro Costa,PIX
+V0040,C053,Smartphone,4,510.06,2023-06-05,João Pereira,Cartão Débito
+V0041,C039,Tablet,4,1699.84,2023-09-24,João Pereira,Cartão Débito
+V0042,C030,Notebook,3,1429.07,2023-11-15,João Pereira,Dinheiro
+V0043,C052,Notebook,4,1954.12,2023-10-02,Ana Silva,Dinheiro
+V0044,C042,Notebook,2,178.03,2023-09-28,Ana Silva,Cartão Débito
+V0045,C019,Smartphone,0,934.05,2023-08-29,João Pereira,PIX
+V0046,C037,Monitor,2,1929.03,2023-06-23,Carlos Santos,PIX
+V0047,C009,Notebook,4,877.01,2023-07-28,Carlos Santos,PIX
+V0048,C001,Notebook,3,575.46,04/10/2023,João Pereira,Boleto
+V0049,C054,Monitor,4,447.45,2023-09-25,Maria Oliveira,PIX
+V0050,C001,Mouse,4,1081.72,2023-08-08,Luiza Almeida,Dinheiro
+V0051,C022,Mouse,1,897.24,2023-08-15,Luiza Almeida,PIX
+V0052,C026,Smartphone,4,401.43,2023-08-25,Carlos Santos,Boleto
+V0053,C029,Smartphone,2,274.42,2023-07-17,Ana Silva,Dinheiro
+V0054,C049,Mouse,2,1725.38,2023-10-22,Pedro Costa,Cartão Crédito
+V0055,C026,Mouse,2,1034.07,2023-07-09,Maria Oliveira,Cartão Crédito
+V0056,C036,Notebook,1,982.88,2023-09-09,Pedro Costa,PIX
+V0057,C023,Teclado,2,1270.12,2023-08-08,Pedro Costa,Cartão Débito
+V0058,C036,Notebook,2,595.7,2023-10-16,Pedro Costa,Cartão Crédito
+V0059,C019,Smartphone,2,1051.98,2023-08-08,Ana Silva,Dinheiro
+V0060,C045,Notebook,0,409.58,24/06/2023,Luiza Almeida,Cartão Débito
+V0061,C016,Monitor,3,1894.08,2023-10-06,Ana Silva,Dinheiro
+V0062,C032,Smartphone,3,1621.8,2023-10-18,Pedro Costa,Dinheiro
+V0063,C050,Notebook,3,1322.25,2023-11-08,Pedro Costa,Cartão Crédito
+V0064,C051,Monitor,3,1888.78,2023-08-06,Luiza Almeida,Dinheiro
+V0065,C001,Teclado,1,1337.82,2023-07-13,Pedro Costa,Boleto
+V0066,C044,Tablet,1,231.79,2023-09-03,Carlos Santos,Boleto
+V0067,C046,Smartphone,2,174.03,2023-07-05,Maria Oliveira,PIX
+V0068,C023,Smartphone,1,1345.87,2023-09-01,Luiza Almeida,Boleto
+V0069,C026,Monitor,2,144.22,2023-11-09,Maria Oliveira,Cartão Crédito
+V0070,C051,Notebook,1,1042.47,2023-07-28,João Pereira,Dinheiro
+V0071,C053,Teclado,2,1294.99,2023-11-04,Ana Silva,Cartão Crédito
+V0072,C036,Teclado,1,1626.61,11/11/2023,Carlos Santos,Dinheiro
+V0073,C010,Tablet,1,1526.17,2023-11-24,Carlos Santos,Boleto
+V0074,C035,Notebook,4,342.61,2023-09-04,Carlos Santos,Boleto
+V0075,C024,Tablet,0,1747.52,2023-07-07,Carlos Santos,PIX
+V0076,C012,Teclado,1,1391.71,2023-06-23,Luiza Almeida,Boleto
+V0077,C025,Teclado,3,295.94,2023-06-17,Luiza Almeida,Dinheiro
+V0078,C049,Notebook,2,1043.47,2023-08-25,Luiza Almeida,Dinheiro
+V0079,C013,Tablet,3,289.97,2023-09-08,Luiza Almeida,Cartão Crédito
+V0080,C012,Smartphone,1,1820.23,2023-08-15,Maria Oliveira,Cartão Crédito
+V0081,C009,Notebook,3,1917.92,2023-10-06,Luiza Almeida,Dinheiro
+V0082,C052,Smartphone,3,1036.75,2023-10-22,Maria Oliveira,Boleto
+V0083,C053,Teclado,1,657.1,2023-06-25,Carlos Santos,Boleto
+V0084,C052,Smartphone,3,504.18,23/07/2023,Luiza Almeida,Boleto
+V0085,C023,Teclado,4,1600.27,2023-09-17,João Pereira,Boleto
+V0086,C053,Notebook,2,1951.07,2023-10-20,Ana Silva,PIX
+V0087,C031,Tablet,2,938.91,2023-08-14,Ana Silva,Cartão Crédito
+V0088,C018,Tablet,3,371.68,2023-08-13,Carlos Santos,Boleto
+V0089,C044,Smartphone,1,292.13,2023-06-07,Luiza Almeida,PIX
+V0090,C046,Teclado,0,1431.84,2023-11-17,Luiza Almeida,PIX
+V0091,C009,Teclado,2,1794.6,2023-06-05,Ana Silva,Cartão Crédito
+V0092,C029,Notebook,1,543.13,2023-10-14,Luiza Almeida,Cartão Débito
+V0093,C048,Teclado,1,804.22,2023-10-23,Ana Silva,Boleto
+V0094,C007,Teclado,1,1224.59,2023-07-06,Pedro Costa,Cartão Débito
+V0095,C006,Monitor,4,258.65,2023-09-16,Carlos Santos,Cartão Crédito
+V0096,C054,Tablet,3,906.02,29/08/2023,Maria Oliveira,Cartão Crédito
+V0097,C019,Tablet,3,925.46,2023-11-20,Carlos Santos,Cartão Débito
+V0098,C013,Mouse,2,990.46,2023-07-28,Ana Silva,Boleto
+V0099,C020,Teclado,4,1557.67,2023-10-05,João Pereira,Dinheiro
+V0100,C041,Mouse,3,1517.49,2023-08-31,Carlos Santos,Cartão Débito
