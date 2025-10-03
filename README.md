@@ -6,7 +6,7 @@
 
 Este projeto demonstra um pipeline completo para limpeza, transformação, integração e visualização de dados de vendas de uma empresa. O objetivo é consolidar quatro fontes de dados distintas (`clientes`, `vendas`, `produtos` e `avaliacoes`) em um único conjunto de dados coeso e confiável, pronto para análise de negócios e geração de insights.
 
-O script `pipeline_limpeza_integracao.py` automatiza todo o processo, desde a leitura dos arquivos brutos até a exportação de um CSV consolidado e a geração de gráficos analíticos.
+O script `main.py` automatiza todo o processo, desde a leitura dos arquivos brutos até a exportação de um CSV consolidado e a geração de gráficos analíticos.
 
 ## 2. Estrutura do Script
 
@@ -23,7 +23,7 @@ O script é organizado de forma modular em 5 seções principais:
 ### `carregar_dados()`
 
 Esta função é responsável por ler os quatro arquivos-fonte:
--   `clientes.csv`, `vendas.csv`, `produtos.csv`: São lidos como DataFrames do Pandas. É especificado o separador `sep=';'` para interpretar corretamente arquivos CSV formatados no padrão brasileiro/europeu. Também é usado `encoding='latin-1'` para evitar erros com caracteres especiais.
+-   `clientes.csv`, `vendas.csv`, `produtos.csv`: São lidos como DataFrames do Pandas. 
 -   `avaliacoes.json`: É lido diretamente para um DataFrame.
 
 A função inclui um bloco `try-except` para garantir que o programa exiba uma mensagem de erro amigável e encerre a execução caso algum dos arquivos não seja encontrado.
@@ -80,7 +80,7 @@ Após a integração, esta função gera visualizações para uma análise explo
 
 ### `main()`
 
-A função `main` orquestra a execução de todo o pipeline na ordem correta. Ao final, ela salva o DataFrame consolidado no arquivo `dados_consolidados.csv`, pronto para ser utilizado.
+A função `main` orquestra a execução de todo o pipeline na ordem correta. Ao final, ela salva o DataFrame consolidado no arquivo `Dataset_Limpo.csv`, pronto para ser utilizado.
 
 ## 4. Como Executar o Script
 
@@ -91,6 +91,6 @@ A função `main` orquestra a execução de todo o pipeline na ordem correta. Ao
     ```
 3.  Execute o script através do terminal:
     ```bash
-    python pipeline_limpeza_integracao.py
+    python main.py
     ```
-4.  Ao final da execução, um novo arquivo chamado `dados_consolidados.csv` será gerado, e uma pasta `visualizacoes` conterá os gráficos analíticos.
+4.  Ao final da execução, um novo arquivo chamado `Dataset_Limpo.csv` será gerado, e uma pasta `visualizacoes` conterá os gráficos analíticos.
