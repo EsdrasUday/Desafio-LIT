@@ -1,0 +1,51 @@
+ID_Cliente,Nome,Email,Telefone,Data_Cadastro,Cidade,Estado,Idade,Renda_Mensal,Ativo
+C001,Cliente 1,cliente1@email.com,+55-11-99126-1860,28/09/2023,Rio de Janeiro,SP,60,3710.79,No
+C002,Cliente 2,cliente2@email.com,+55-11-98121-1466,03/08/2023,Brasília,BA,28,5052.68,Não
+C003,Cliente 3,cliente3@email.com,+55-11-99482-9322,30/05/2023,Belo Horizonte,RJ,70,2128.68,No
+C004,Cliente 4,cliente4@email.com,+55-11-98276-2184,10/11/2023,Fortaleza,RJ,39,2212.25,Yes
+C005,Cliente 5,cliente5@email.com,N/A,10/09/2023,Porto Alegre,SP,61,3033.33,Sim
+C006,Cliente 6,cliente6@email.com,+55-11-98510-8849,07/07/2023,Rio de Janeiro,BA,33,-2358.31,Não
+C007,Cliente 7,cliente7email.com,+55-11-99806-1189,24/06/2023,Fortaleza,AM,79,3101.29,Sim
+C008,Cliente 8,cliente8@email.com,+55-11-98831-2528,05-11-2023,Fortaleza,BA,54,862.88,No
+C009,Cliente 9,cliente9@email.com,+55-11-99842-9838,21/01/2023,Fortaleza,RS,26,2099.04,Não
+C010,Cliente 10,cliente10@email.com,N/A,06/12/2023,Recife,AM,291,2562.46,S
+C011,Cliente 11,cliente11@email.com,+55-11-99390-8099,21/09/2023,São Paulo,MG,64,2420.29,No
+C012,Cliente 12,cliente12@email.com,+55-11-99585-4943,02/01/2023,Porto Alegre,PR,79,-1261.84,S
+C013,Cliente 13,cliente13@email.com,+55-11-99413-4843,06/11/2023,Belo Horizonte,BA,46,4107.7,S
+C014,Cliente 14,cliente14email.com,+55-11-98455-8629,03/08/2023,Rio de Janeiro,RJ,77,3257.05,N
+C015,Cliente 15,cliente15@email.com,N/A,09/07/2023,Rio de Janeiro,PR,57,3709.79,S
+C016,Cliente 16,cliente16@email.com,+55-11-98878-5887,08-05-2023,Manaus,DF,77,3988.79,Sim
+C017,Cliente 17,cliente17@email.com,+55-11-98187-9571,10/02/2023,Recife,CE,46,3873.18,Sim
+C018,Cliente 18,cliente18@email.com,+55-11-99698-6892,19/08/2023,Porto Alegre,RJ,75,-4331.62,Yes
+C019,Cliente 19,cliente19@email.com,+55-11-98040-4099,15/05/2023,Brasília,AM,26,737.77,S
+C020,Cliente 20,cliente20@email.com,N/A,17/02/2023,Manaus,BA,222,4649.47,No
+C021,Cliente 21,cliente21email.com,+55-11-99597-9996,09/04/2023,Rio de Janeiro,SP,61,4252.19,No
+C022,Cliente 22,cliente22@email.com,+55-11-98960-9110,11/05/2023,Salvador,DF,18,3444.84,Sim
+C023,Cliente 23,cliente23@email.com,+55-11-99028-8385,12/09/2023,Salvador,RJ,31,8058.44,N
+C024,Cliente 24,cliente24@email.com,+55-11-99038-6977,02-11-2023,Brasília,PE,77,-1619.41,No
+C025,Cliente 25,cliente25@email.com,N/A,28/06/2023,Curitiba,MG,49,871.87,S
+C026,Cliente 26,cliente26@email.com,+55-11-98095-7019,10/08/2023,Curitiba,BA,54,4563.74,No
+C027,Cliente 27,cliente27@email.com,+55-11-99430-7374,25/08/2023,Brasília,RJ,32,1816.11,Yes
+C028,Cliente 28,cliente28email.com,+55-11-99183-4157,11/10/2023,Belo Horizonte,CE,19,4115.57,No
+C029,Cliente 29,cliente29@email.com,+55-11-98681-3693,11/10/2023,Salvador,MG,45,2377.85,N
+C030,Cliente 30,cliente30@email.com,N/A,27/11/2023,Porto Alegre,DF,291,-901.89,No
+C031,Cliente 31,cliente31@email.com,+55-11-99496-8392,10/10/2023,Fortaleza,BA,79,1694.54,No
+C032,Cliente 32,cliente32@email.com,+55-11-99434-5413,06-14-2023,Curitiba,SP,50,2240.04,Não
+C033,Cliente 33,cliente33@email.com,+55-11-99842-1663,11/11/2023,São Paulo,PR,71,3451.98,N
+C034,Cliente 34,cliente34@email.com,+55-11-99715-6232,14/11/2023,Brasília,RJ,66,812.22,Não
+C035,Cliente 35,cliente35email.com,N/A,21/02/2023,Manaus,PR,29,2972.17,Não
+C036,Cliente 36,cliente36@email.com,+55-11-99136-2636,23/04/2023,Recife,RS,73,-489.74,No
+C037,Cliente 37,cliente37@email.com,+55-11-99104-1698,23/04/2023,Recife,MG,19,2011.23,S
+C038,Cliente 38,cliente38@email.com,+55-11-99759-8392,06/05/2023,Belo Horizonte,BA,19,3005.91,No
+C039,Cliente 39,cliente39@email.com,+55-11-99076-2707,06/08/2023,Fortaleza,CE,49,6238.09,S
+C040,Cliente 40,cliente40@email.com,N/A,07-22-2023,Manaus,RS,255,4847.67,Yes
+C041,Cliente 41,cliente41@email.com,+55-11-98122-9958,21/10/2023,Porto Alegre,PR,41,3534.24,Não
+C042,Cliente 42,cliente42email.com,+55-11-98981-2930,28/08/2023,Belo Horizonte,CE,33,-2967.18,N
+C043,Cliente 43,cliente43@email.com,+55-11-98608-5282,22/11/2023,Rio de Janeiro,SP,33,3149.48,Sim
+C044,Cliente 44,cliente44@email.com,+55-11-98954-7546,12/12/2023,Belo Horizonte,MG,20,2244.79,No
+C045,Cliente 45,cliente45@email.com,N/A,27/05/2023,Porto Alegre,AM,37,1406.54,Sim
+C046,Cliente 46,cliente46@email.com,+55-11-98928-2959,08/05/2023,Porto Alegre,RS,56,3710.39,Yes
+C047,Cliente 47,cliente47@email.com,+55-11-98337-5736,24/09/2023,Recife,CE,45,1743.63,S
+C048,Cliente 48,cliente48@email.com,+55-11-99438-5061,10-25-2023,Fortaleza,SP,52,-4015.78,No
+C049,Cliente 49,cliente49email.com,+55-11-98262-7287,12/12/2023,Rio de Janeiro,CE,65,5045.83,S
+C050,Cliente 50,cliente50@email.com,N/A,02/01/2023,Curitiba,RJ,200,6808.74,S
